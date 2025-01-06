@@ -30,11 +30,11 @@ AIFFEL_quest_rs
 │       └── README.md
 │
 └── GoingDeeper
-    ├── GD01
+    ├── Quest01
     .
     .
     .
-    └── GD18
+    └── Quest09
         ├── .ipynb
         └── README.md
 ```
