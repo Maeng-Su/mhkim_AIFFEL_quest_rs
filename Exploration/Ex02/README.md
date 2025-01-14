@@ -5,6 +5,8 @@
 
 # PRT(Peer Review Template)
 - [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
+
+      
 ![image](https://github.com/user-attachments/assets/bf8e86cd-c26a-46e1-a5eb-7205378b0cf9)
 이상치 제거
 
@@ -18,6 +20,7 @@
     
 - [X]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
+
      ![image](https://github.com/user-attachments/assets/0e29c728-41fc-48dd-afae-f9e85b6f9ba2)
 feature를 재구성한게 중요하다고 여겨졌는데 이런식으로 마크다운으로 알려주셔서 이해가 잘되었습니다.
 
